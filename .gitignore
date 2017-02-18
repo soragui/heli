@@ -1,0 +1,3 @@
+# Ignore Matlab autosave file
+
+*.autosave
