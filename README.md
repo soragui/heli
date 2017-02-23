@@ -11,7 +11,7 @@
 	git clone https://github.com/BruceGui/matCxplane.git
 ```
  - 然后打开Matlab，进入刚才下载的目录，并把当前目录加入Matlab的PATH。如下图所示：
- ![目录加入PATH](img/gocontent.jpg)
+ ![目录加入PATH](img/gocontent.JPG)
  - 双击打开simulink文件helicopter_control_xplane_9即可。
  
 ####连接X-Plane 9
