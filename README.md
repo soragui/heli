@@ -18,6 +18,7 @@
 X-Plane 9发送和接受数据用的是UDP协议，且其默认的接受端口是49000，发送端口是49005，通过配置IP地址和端口就可以和其进行通信，从而控制模型飞机，进行简单的仿真测试。
 
 选择 Settings->Data Input & Output 配置X-Plane 9发送和显示的数据，如下图所示：
+
 ![数据发送配置](img/datasend.JPG)
 
 选择 Settings->New Connections 选择数据发送的目标机器，如下图所示：
