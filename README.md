@@ -13,7 +13,7 @@
  - 然后打开Matlab，进入刚才下载的目录，并把当前目录加入Matlab的PATH。如下图所示：
  ![目录加入PATH](img/gocontent.JPG)
  - 双击打开simulink文件helicopter_control_xplane_9即可。
- 
+
 ##连接X-Plane 9
 X-Plane 9发送和接受数据用的是UDP协议，且其默认的接受端口是49000，发送端口是49005，通过配置IP地址和端口就可以和其进行通信，从而控制模型飞机，进行简单的仿真测试。
 
@@ -35,5 +35,3 @@ X-Plane 9发送和接受数据用的是UDP协议，且其默认的接受端口�
 其中IP地址如果X-Plane 9在本机，则是127.0.0.1.
 
 ##结语
-
-

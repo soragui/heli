@@ -1,3 +1,7 @@
 # Ignore Matlab autosave file
 
+*.mexw64
+*.r2016a
 *.autosave
+Helicopter/slprj
+
